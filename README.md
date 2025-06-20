@@ -11,6 +11,7 @@ This is an interactive movie recommendation dashboard built with [Dash](https://
 A video demonstration of the dashboard is available:
 
 [📽 Watch the Demo](./demo.mp4)
+
 <video width="320" height="240" controls>
   <source src="./demo.mp4" type="video/mp4">
 </video>
