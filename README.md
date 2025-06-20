@@ -94,23 +94,37 @@ This project uses the [TMDB API](https://developer.themoviedb.org/docs) to fetch
 
 ## How to Run the App
 
-1. **Clone the repository**:
+1. **Clone the repository** :
    ```bash
    git clone https://github.com/your-username/movielens-recommender.git
    cd movielens-recommender
    ```
+   
+2. **Create and activate a virtual environment (optional but recommended)** :
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
-2. **Install dependencies**:
+3. **Install dependencies** :
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the app**:
+4. **Add your API keys** :
+
+   Copy `.env.example` to `.env` and fill in required keys.
+   
+   ```bash
+   cp .env.example .env
+   ```
+
+5. **Run the app** :
    ```bash
    python app.py
    ```
 
-4. **Access the app**:
+6. **Access the app** :
    Navigate to [http://localhost:8050](http://localhost:8050) in your web browser.
 
 ---
