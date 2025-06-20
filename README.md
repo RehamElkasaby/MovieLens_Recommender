@@ -12,9 +12,10 @@ A video demonstration of the dashboard is available:
 
 [📽 Watch the Demo](./demo.mp4)
 
-<video width="320" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/b9f30706-33e3-4532-bcbc-81b161617798
+
+
 
 
 ---
