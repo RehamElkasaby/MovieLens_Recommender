@@ -8,15 +8,11 @@ This is an interactive movie recommendation dashboard built with [Dash](https://
 
 ## 🎬 Demo
 
-A video demonstration of the dashboard is available:
+A video demonstration of the dashboard is available
 
-[📽 Watch the Demo](./demo.mp4)
-
+### 📽 Watch the Demo :
 
 https://github.com/user-attachments/assets/b9f30706-33e3-4532-bcbc-81b161617798
-
-
-
 
 ---
 
